@@ -11,4 +11,5 @@
 ||gdmf.apple.com^
 ||ocsp.apple.com^
 ||tools.google.com^
+||update.synology.com^
 z

@@ -1,9 +1,9 @@
 ! Title: Other Block
 
 
-||hub5idx.v6.shub.sandai.net^
-||hub5emu.v6.shub.sandai.net^
-||hub5btmain.v6.shub.sandai.net^
+#||hub5idx.v6.shub.sandai.net^
+#||hub5emu.v6.shub.sandai.net^
+#||hub5btmain.v6.shub.sandai.net^
 ||swscan.apple.com^
 ||swcdn.apple.com^
 ||swdist.apple.com^

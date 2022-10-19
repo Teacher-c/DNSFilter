@@ -12,4 +12,5 @@
 ||gdmf.apple.com^
 ||ocsp.apple.com^
 ||tools.google.com^
+||static.zhihu.com^
 z

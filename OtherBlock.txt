@@ -4,7 +4,7 @@
 ||hub5idx.v6.shub.sandai.net^
 ||hub5emu.v6.shub.sandai.net^
 ||hub5btmain.v6.shub.sandai.net^
-#||update.synology.com^
+||update.synology.com^
 ||swscan.apple.com^
 ||swcdn.apple.com^
 ||swdist.apple.com^
@@ -13,4 +13,15 @@
 ||ocsp.apple.com^
 ||tools.google.com^
 ||static.zhihu.com^
+||myparallels.com^$important
+||parallels.cn^$important
+||parallels.com^$important
+||parallels.de^$important
+||parallels.es^$important
+||parallels.fr^$important
+||parallels.nl^$important
+||parallels.pt^$important
+||parallels.ru^$important
+||parallelskorea.com^$important
+||parallels.com.cdn.cloudflare.net^$important
 z

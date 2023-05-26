@@ -5,6 +5,9 @@
 ||hub5emu.v6.shub.sandai.net^
 ||hub5btmain.v6.shub.sandai.net^
 ||update.synology.com^
+||update7.synology.com^
+||autoupdate7.synology.com^
+||autoupdate7.synology.cn^
 ||swscan.apple.com^
 ||swcdn.apple.com^
 ||swdist.apple.com^

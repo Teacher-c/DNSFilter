@@ -9,7 +9,7 @@
 ||autoupdate7.synology.com^
 ||autoupdate7.synology.cn^
 ||swscan.apple.com^
-||swcdn.apple.com^
+#||swcdn.apple.com^
 ||swdist.apple.com^
 ||mesu.apple.com^
 ||gdmf.apple.com^

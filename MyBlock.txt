@@ -1,20 +1,24 @@
-! Title: Other Block
+! Title: My Block
 
+! 避免迅雷版权问题
 ||hub5idx.v6.shub.sandai.net^
 ||hub5emu.v6.shub.sandai.net^
 ||hub5btmain.v6.shub.sandai.net^
+! 屏蔽群晖系统更新
 ||update.synology.com^
 ||update7.synology.com^
 ||autoupdate7.synology.com^
 ||autoupdate7.synology.cn^
+！屏蔽macOS和ios更新
 ||swscan.apple.com^
 ||swcdn.apple.com^
 ||swdist.apple.com^
 ||mesu.apple.com^
 ||gdmf.apple.com^
 ||ocsp.apple.com^
+！屏蔽Google Chrome更新
 ||tools.google.com^
-||static.zhihu.com^
+！屏蔽parallels更新
 ||myparallels.com^
 ||parallels.cn^
 ||parallels.com^

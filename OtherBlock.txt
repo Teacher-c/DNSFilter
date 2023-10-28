@@ -1,6 +1,5 @@
 ! Title: Other Block
 
-
 ||hub5idx.v6.shub.sandai.net^
 ||hub5emu.v6.shub.sandai.net^
 ||hub5btmain.v6.shub.sandai.net^
@@ -27,4 +26,3 @@
 ||parallels.ru^
 ||parallelskorea.com^
 ||parallels.com.cdn.cloudflare.net^
-z

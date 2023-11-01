@@ -30,3 +30,5 @@
 ||parallels.ru^
 ||parallelskorea.com^
 ||parallels.com.cdn.cloudflare.net^
+! 屏蔽Xmind更新
+||dl2.xmind.com^
